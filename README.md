@@ -2,3 +2,4 @@
 Student Name: Jacob Takaoka
 Expected Grade: A
 Reasoning: I have completed Sections 1 - 5 (Preparation, Scaffolding, Cards, Gameplay, Additional Features)
+Video Demo: https://youtu.be/vHjtQa6qCpw
